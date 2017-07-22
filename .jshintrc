@@ -1,11 +1,11 @@
 {
-  "predef": [
-    "document",
-    "window",
-    "-Promise"
-  ],
-  "browser": true,
-  "boss": true,
+  "predef": {
+    "document": true,
+    "window": true,
+    "EmberCliFactoryGuyExampleENV": true
+  },
+  "browser" : true,
+  "boss" : true,
   "curly": true,
   "debug": false,
   "devel": true,
@@ -27,6 +27,6 @@
   "strict": false,
   "white": false,
   "eqnull": true,
-  "esversion": 6,
+  "esnext": true,
   "unused": true
 }

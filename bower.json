@@ -1,0 +1,17 @@
+{
+  "name": "factory-guy-demo",
+  "description": "using factory-guy add on",
+  "main": "",
+  "authors": [
+    "aishwaryarajan75 <aishwaryarajan75@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/aishwaryarajan75/factory-guy-example",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
